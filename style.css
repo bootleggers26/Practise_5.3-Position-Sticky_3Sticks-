@@ -1,0 +1,20 @@
+.parent {
+  background-color: aqua;
+  padding: 10px;
+  position: relative;
+  height: 200vh;
+}
+.child {
+  padding: 10px;
+  position: sticky;
+  top: 0;
+}
+.child-one {
+  background-color: rgb(81, 239, 19);
+}
+.child-two {
+  background-color: rgb(235, 239, 19);
+}
+.child-three {
+  background-color: rgb(239, 19, 239);
+}
